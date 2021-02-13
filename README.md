@@ -1,7 +1,6 @@
 
 >I am entitled not to recognize the principle of bivalence, and to accept the view that besides truth and falsehood exist other truth-values, including at least more, the third truth-value. What is this third-value? I have no suitable name for it. But after the preceding explanations it should not be difficult to understand what I have in mind. I maintain that there are propositions which are neither true nor false but indeterminate. All sentences about future facts which are not yet decided belong to this category. Such sentences are neither true at present moment, for they have no real correlate. [...] If third value is introduced into logic we change its very foundations.
-
-Jan Łukasiewicz, On determinism, 1946
+>Jan Łukasiewicz, On determinism, 1946
 
 
 #  [Corso IFTS Tecnico per la sicurezza delle reti e dei sistemi IT Security Specialist - 2021](https://www.scuolalatecnica.it/ifts)
@@ -10,11 +9,11 @@ Jan Łukasiewicz, On determinism, 1946
 
 
 In questa repository verranno raccolti i notebook sviluppati durante il corso. Il corso di logica fuzzy tratterà i seguenti  argomenti: 
-- introduzione al pensiero formale
-- cenni storici 
-- cenni di programmazione
-- cenni di python e [jupyter notebooks](https://github.com/jupyter/notebook)
-- sintassi e semantica in matematica e nei linguaggi formali
+- [x]  introduzione al pensiero formale
+- [x]  cenni storici 
+- [x]  cenni di programmazione
+- [x]  cenni di python e [jupyter notebooks](https://github.com/jupyter/notebook)
+- [x]  sintassi e semantica in matematica e nei linguaggi formali
 - logica proposizionale
 - tavole di verità 
 - logica fuzzy e logica polivalente
