@@ -15,8 +15,8 @@ In questa repository verranno raccolti i notebook sviluppati durante il corso. I
 - [x]  cenni di programmazione
 - [x]  cenni di python e [jupyter notebooks](https://github.com/jupyter/notebook)
 - [x]  sintassi e semantica in matematica e nei linguaggi formali
-- logica proposizionale
-- tavole di verità 
+- [x]  logica proposizionale
+- [x]  tavole di verità 
 - logica fuzzy e logica polivalente
 - funzioni  di verità 
 
