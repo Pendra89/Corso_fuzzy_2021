@@ -17,6 +17,6 @@ In questa repository verranno raccolti i notebook sviluppati durante il corso. I
 - [x]  sintassi e semantica in matematica e nei linguaggi formali
 - [x]  logica proposizionale
 - [x]  tavole di verità 
-- logica fuzzy e logica polivalente
+- [x] logica fuzzy e logica polivalente
 - funzioni  di verità 
 
