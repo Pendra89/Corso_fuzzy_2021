@@ -18,5 +18,5 @@ In questa repository verranno raccolti i notebook sviluppati durante il corso. I
 - [x]  logica proposizionale
 - [x]  tavole di verità 
 - [x] logica fuzzy e logica polivalente
-- funzioni  di verità 
+- [x] funzioni  di verità 
 
